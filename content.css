@@ -1,0 +1,25 @@
+._o77ufew, ._19lfck2n {
+    color : #EFEFEF;
+}
+
+
+.user-info {
+    background-image : url("https://cdn.kastatic.org/images/profile/backgrounds/bg-photon-2.jpg");
+    background-attachment : fixed;
+    background-size : 100%;
+    background-position : 0 -50px;
+}
+
+
+._pot4j9l {
+    backdrop-filter : blur(8px) brightness(250%);
+    -webkit-backdrop-filter : blur(8px) brightness(250%);
+}
+
+
+.user-summary-view__points-and-badges {
+    backdrop-filter : blur(8px) brightness(250%);
+    -webkit-backdrop-filter : blur(8px) brightness(250%);
+    padding : 4px;
+    border-radius : 7px;
+}
