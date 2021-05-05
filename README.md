@@ -16,7 +16,11 @@ I also hope to make this or a similar extension available for Safari and the min
 Version history:
  
  0.1.0 - Basic functionality, adding back the image
+ 
  0.2.0 - Adding CSS to style the child elements of the background
+ 
  0.3.0 - Various updates
+ 
  0.4.0 - Custom images (links only)
+ 
  0.5.0 - Updated CSS to better accomodate mouse events
