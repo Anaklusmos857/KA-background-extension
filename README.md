@@ -11,3 +11,12 @@ Download as a ZIP and install to your Chrome extensions by turning on developer 
 
 
 I also hope to make this or a similar extension available for Safari and the minor browsers. The minor browsers will be pretty easy since they generally use the same extension format as Chrome, but Safari has proven to be difficult. It may take a while, but as a Mac user myself, I have plenty of motivation to add a Safari extension as soon as possible.
+
+
+Version history:
+ 
+ 0.1.0 - Basic functionality, adding back the image
+ 0.2.0 - Adding CSS to style the child elements of the background
+ 0.3.0 - Various updates
+ 0.4.0 - Custom images (links only)
+ 0.5.0 - Updated CSS to better accomodate mouse events
